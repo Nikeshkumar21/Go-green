@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(78, 241, 78);
+    background-image: url(gogreen.png);
+
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.img1{
+    width: 200px;
+    height: 50px;
+    padding-left: 400px;
+    padding-bottom: 50px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+} 
+.img3{
+    width: 5px;
+    height: 1px;
+    padding-left: 300px;
+    margin-left: 300px;
+}
+
+h1{
+    font-style: bold;
+    color: green;
+}
+h2{
+    color: rgb(1, 29, 1);
+}
+h4{
+    font-style: inherit;
+    color: rgb(1, 29, 1);
+}
+nav{
+   color:green;
+    padding: 20px;
+}
+nav h1,li,ul{
+    display: inline;
+}
+ul{
+    margin-left: 50%;
+}
+li{
+    margin-right: 20px;
+    cursor: pointer;
+}
+nav li:hover{
+    color: rgb(144, 253, 144);
+}
+.pr{
+    width: 700px;
+    border: 2px;
+    padding-right: 300px;
+    margin-right: 300px;
+}
+.pr1{
+    font-size: xx-large;
+}
+    
+
+.pr2{
+    font-size: xx-large;
+
+}
+.pr3{
+    font-size: xx-large;
+}
+.contact{
+    color: rgb(55, 6, 78);
+    margin-top: 150px;
+    padding-top: 150px;
+    align-items: center;
+}
+.more :hover{
+    color: green;
+}
